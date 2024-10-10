@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-10T17:24:22 IST" name="Default Suite" finished-at="2024-10-10T17:24:37 IST" duration-ms="15215">
+    <groups>
+    </groups>
+    <test started-at="2024-10-10T17:24:22 IST" name="Amazon" finished-at="2024-10-10T17:24:37 IST" duration-ms="15215">
+      <class name="mainFile.SeleniumTest">
+        <test-method is-config="true" signature="configureDriver()[pri:0, instance:mainFile.SeleniumTest@3cc2931c]" started-at="2024-10-10T17:24:22 IST" name="configureDriver" finished-at="2024-10-10T17:24:34 IST" duration-ms="12617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configureDriver -->
+        <test-method signature="testCase()[pri:0, instance:mainFile.SeleniumTest@3cc2931c]" started-at="2024-10-10T17:24:34 IST" name="testCase" finished-at="2024-10-10T17:24:37 IST" duration-ms="2366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:mainFile.SeleniumTest@3cc2931c]" started-at="2024-10-10T17:24:37 IST" name="quitDriver" finished-at="2024-10-10T17:24:37 IST" duration-ms="192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- mainFile.SeleniumTest -->
+    </test> <!-- Amazon -->
+  </suite> <!-- Default Suite -->
+</testng-results>
